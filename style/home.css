@@ -1,3 +1,5 @@
+
+
 .navbar {
   background-color: rgba(0, 0, 0, 0.973);
 }
@@ -66,7 +68,7 @@
   margin: 3px;
   position: relative;
   top: 120px;
-  left: 29px;
+  left: 19px;
   z-index: 2;
 }
 
@@ -82,7 +84,7 @@
   width: 300px;
   margin: 3px;
   position: relative;
-  top: -228px;
+  top: -238px;
   left: 510px;
 }
 
@@ -98,7 +100,7 @@
   margin: 3px;
   position: relative;
   top: -276px;
-  left: 241px;
+  left: 231px;
   z-index: 1;
 }
 
@@ -249,7 +251,6 @@
 .meet .images .img1 {
   height: 70vh;
   width: 45vw;
-  
   border: 1px solid black;
   border-radius: 10px;
   
@@ -258,7 +259,6 @@
 .meet .images .img2 {
   height: 70vh;
   width: 45vw;
-  
   border: 1px solid black;
   border-radius: 10px;
   position: absolute;
